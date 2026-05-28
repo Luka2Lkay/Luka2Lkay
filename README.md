@@ -1,23 +1,12 @@
-## Hello world👋
+## Hi👋, I'm Lukhanyo Matshebelele
 
 #### Software Engineer | Combining Full-Stack Expertise with AI-Driven Development
 
 <img src="https://komarev.com/ghpvc/?username=Luka2Lkay&&style=flat-square&base=1000" />
 
-<!--
-**Luka2Lkay/Luka2Lkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on UbuntuBlog
+- 📫 How to reach me: https://www.linkedin.com/in/lukhanyo-matshebelele/
+- ⚡ Fun fact: "Hello World!" is a Gen Xer
 
 :chart_with_upwards_trend: GitHub Stats
 
