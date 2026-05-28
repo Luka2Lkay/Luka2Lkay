@@ -8,11 +8,11 @@
 - 📫 How to reach me: https://www.linkedin.com/in/lukhanyo-matshebelele/
 - ⚡ Fun fact: "Hello World!" is a Gen Xer
 
-:chart_with_upwards_trend: GitHub Stats
+### :chart_with_upwards_trend: GitHub Stats
 
 <img src="https://github-readme-streak-stats-khaki.vercel.app/?user=Luka2Lkay&theme=radical&hide_border=true&exclude_days=Sun%2CSat">
 
-:round_pushpin: My Skills
+### :round_pushpin: My Skills
 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>   
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
