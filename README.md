@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:chart_with_upwards_trend: GitHub Stats
+
+<img src="https://github-readme-streak-stats-khaki.vercel.app/?user=Luka2Lkay&theme=radical&hide_border=true&exclude_days=Sun%2CSat">
