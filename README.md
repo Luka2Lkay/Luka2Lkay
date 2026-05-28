@@ -1,4 +1,6 @@
-## Hello world👋, I'm Lukhanyo Matshebelele
+## Hello world👋
+
+https://komarev.com/ghpvc/?username=Luka2Lkay&&style=flat-square&base=1000
 
 <!--
 **Luka2Lkay/Luka2Lkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
