@@ -2,7 +2,7 @@
 
 #### Software Engineer | Combining Full-Stack Expertise with AI-Driven Development
 
-<img src="https://komarev.com/ghpvc/?username=Luka2Lkay&&style=flat-square&base=1000" />
+<img src="https://komarev.com/ghpvc/?username=Luka2Lkay&&style=flat-square" />
 
 - 🔭 I’m currently working on UbuntuBlog
 - 📫 How to reach me: https://www.linkedin.com/in/lukhanyo-matshebelele/
